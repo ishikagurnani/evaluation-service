@@ -1,5 +1,5 @@
 {
-	"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcwMTg1MjY2OSwianRpIjoiYWI3Nzk3MTI0NzQzNDlmYWJlYjdjNjdiZjM1NjQzODUiLCJ1c2VyX2lkIjoxfQ.qlAPD5kb4EqdG2-Oi4RcBSjNKSvUoPQoeT2BfYqAtlY",
-	"team_pk": "2",
-	"evalai_host_url": "localhost:8888"
+	"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcwMjU2MDM2NCwianRpIjoiYTVhMmQxMzBmNTI3NGUwYTgwMzhiMjNlZTJkOThkZDciLCJ1c2VyX2lkIjoyNjU4MX0.A5EH0cleXqKUoJI33H78X8vsV6Q9En-dtH_GgXBGHUI",
+	"team_pk": "2233",
+	"evalai_host_url": "https://eval.ai"
 }
